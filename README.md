@@ -32,4 +32,4 @@ Product ownership, business-to-technical requirements translation, content strat
 
 The public website is available at [deanhstanton.com](https://deanhstanton.com). The software repository and internal configuration remain private.
 
-[Back to Dean H. Stanton's GitHub profile](https://github.com/deanstanton-a11y)
+[Back to Dean H. Stanton's GitHub profile](https://github.com/DeanHStanton)
